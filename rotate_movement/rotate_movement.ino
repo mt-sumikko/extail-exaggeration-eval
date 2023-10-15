@@ -10,13 +10,12 @@ int pos = 90;
 void setup() {
   Serial.begin(9600);
   myservo.attach(11, 500, 2500);
-  myservo.write(90);
+  myservo.write(90);//Reference position: Perpendicular to the ground
 
 
 }
 
 
-//これでdelayを調整すれば速度調整はできるけど、pos通りの角度回ってないからパルス幅で指定する必要がありそう
 void loop() {
   for (pos = 90; pos >= 60; pos -= 1) {
     myservo.write(pos);
