@@ -1,5 +1,5 @@
 ;ANYCUBIC i3 Mega S size: 210x210x205
-G90 ; 絶対座標
+G90 ; absolute coordinate
 G1 X65 Y0 Z200 ; Initial position set.
 G4 P5000 ; Wait 5 seconds to prepare for start.
 G1 X145 F18000 ; #1 Move to the right.
@@ -18,7 +18,7 @@ G1 X95  ; #4
 G1 X65
 G4 P3000 ;end
 G1 X95  ;
-G4 P3000; end
+G4 P3000; 
 G1 X65
 G4 P5000 ; Standby for 5 sec.
 G1 X65;
