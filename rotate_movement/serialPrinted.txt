@@ -1,0 +1,91 @@
+16:40:07.981 -> 92
+16:40:08.013 -> Ready...
+16:40:12.936 -> 92
+.
+16:40:14.485 -> 92
+16:40:14.485 -> Ready...
+16:40:19.481 -> Start
+16:40:19.644 -> Time for 1st loop: 160, pos: 72
+16:40:21.980 -> Time for 2nd loop: 322, pos: 112
+16:40:24.313 -> Time for 3rd loop: 322, pos: 72
+16:40:26.647 -> Time for 4th loop: 323, pos: 112
+16:40:37.402 -> Time for 1st loop: 162, pos: 72
+16:40:39.735 -> Time for 2nd loop: 322, pos: 112
+16:40:42.040 -> Time for 3rd loop: 322, pos: 72
+16:40:44.378 -> Time for 4th loop: 322, pos: 112
+16:40:55.155 -> Time for 1st loop: 161, pos: 72
+16:40:57.461 -> Time for 2nd loop: 322, pos: 112
+16:40:59.797 -> Time for 3rd loop: 322, pos: 72
+16:41:02.131 -> Time for 4th loop: 322, pos: 112
+16:41:12.904 -> Time for 1st loop: 161, pos: 72
+16:41:15.205 -> Time for 2nd loop: 322, pos: 112
+16:41:17.539 -> Time for 3rd loop: 322, pos: 72
+16:41:19.878 -> Time for 4th loop: 323, pos: 112
+16:41:30.635 -> Time for 1st loop: 162, pos: 72
+16:41:32.971 -> Time for 2nd loop: 322, pos: 112
+16:41:35.274 -> Time for 3rd loop: 322, pos: 72
+16:41:37.612 -> Time for 4th loop: 322, pos: 112
+16:41:48.379 -> Time for 1st loop: 160, pos: 72
+16:41:50.717 -> Time for 2nd loop: 323, pos: 112
+16:41:53.020 -> Time for 3rd loop: 322, pos: 72
+16:41:55.357 -> Time for 4th loop: 322, pos: 112
+16:42:06.123 -> Time for 1st loop: 161, pos: 72
+16:42:08.465 -> Time for 2nd loop: 321, pos: 112
+16:42:10.773 -> Time for 3rd loop: 323, pos: 72
+16:42:13.109 -> Time for 4th loop: 322, pos: 112
+16:42:23.857 -> Time for 1st loop: 162, pos: 72
+16:42:26.195 -> Time for 2nd loop: 323, pos: 112
+16:42:28.533 -> Time for 3rd loop: 321, pos: 72
+16:42:30.839 -> Time for 4th loop: 323, pos: 112
+16:42:41.628 -> Time for 1st loop: 161, pos: 72
+16:42:43.932 -> Time for 2nd loop: 323, pos: 112
+16:42:46.274 -> Time for 3rd loop: 323, pos: 72
+16:42:48.580 -> Time for 4th loop: 321, pos: 112
+16:42:59.364 -> Time for 1st loop: 161, pos: 72
+16:43:01.673 -> Time for 2nd loop: 321, pos: 112
+16:43:04.012 -> Time for 3rd loop: 323, pos: 72
+16:43:06.319 -> Time for 4th loop: 323, pos: 112
+16:43:17.104 -> Time for 1st loop: 162, pos: 72
+16:43:19.445 -> Time for 2nd loop: 323, pos: 112
+16:43:21.751 -> Time for 3rd loop: 321, pos: 72
+16:43:24.093 -> Time for 4th loop: 323, pos: 112
+16:43:34.844 -> Time for 1st loop: 161, pos: 72
+16:43:37.178 -> Time for 2nd loop: 322, pos: 112
+16:43:39.488 -> Time for 3rd loop: 323, pos: 72
+16:43:41.829 -> Time for 4th loop: 321, pos: 112
+16:43:52.583 -> Time for 1st loop: 160, pos: 72
+16:43:54.924 -> Time for 2nd loop: 322, pos: 112
+16:43:57.231 -> Time for 3rd loop: 322, pos: 72
+16:43:59.572 -> Time for 4th loop: 323, pos: 112
+16:44:10.357 -> Time for 1st loop: 162, pos: 72
+16:44:12.664 -> Time for 2nd loop: 322, pos: 112
+16:44:15.006 -> Time for 3rd loop: 322, pos: 72
+16:44:17.311 -> Time for 4th loop: 322, pos: 112
+16:44:28.093 -> Time for 1st loop: 161, pos: 72
+16:44:30.399 -> Time for 2nd loop: 323, pos: 112
+16:44:32.740 -> Time for 3rd loop: 322, pos: 72
+16:44:35.049 -> Time for 4th loop: 322, pos: 112
+16:44:45.835 -> Time for 1st loop: 161, pos: 72
+16:44:48.142 -> Time for 2nd loop: 322, pos: 112
+16:44:50.483 -> Time for 3rd loop: 323, pos: 72
+16:44:52.793 -> Time for 4th loop: 322, pos: 112
+16:45:03.577 -> Time for 1st loop: 162, pos: 72
+16:45:05.917 -> Time for 2nd loop: 322, pos: 112
+16:45:08.226 -> Time for 3rd loop: 322, pos: 72
+16:45:10.567 -> Time for 4th loop: 323, pos: 112
+16:45:21.339 -> Time for 1st loop: 161, pos: 72
+16:45:23.649 -> Time for 2nd loop: 323, pos: 112
+16:45:25.965 -> Time for 3rd loop: 322, pos: 72
+16:45:28.305 -> Time for 4th loop: 322, pos: 112
+16:45:39.067 -> Time for 1st loop: 161, pos: 72
+16:45:41.409 -> Time for 2nd loop: 322, pos: 112
+16:45:43.719 -> Time for 3rd loop: 323, pos: 72
+16:45:46.030 -> Time for 4th loop: 322, pos: 112
+16:45:56.810 -> Time for 1st loop: 161, pos: 72
+16:45:59.151 -> Time for 2nd loop: 323, pos: 112
+16:46:01.453 -> Time for 3rd loop: 321, pos: 72
+16:46:05.305 -> 92
+.
+16:46:06.893 -> 92
+16:46:06.893 -> Ready...
+16:46:11.902 -> Start

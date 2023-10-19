@@ -1,7 +1,7 @@
 ;ANYCUBIC i3 Mega S size: 210x210x205
 G90 ; absolute coordinate
 G1 X65 Y0 Z200 ; Initial position set.
-G4 P5000 ; Wait 5 seconds to prepare for start.
+G4 P5000 ; Start Wait 5 seconds to prepare for start.
 G1 X145 F18000 ; #1 Move to the right.
 G4 P1500 ; Standby for 1 sec.
 G1 X65  ; Back to left.
@@ -16,7 +16,7 @@ G1 X65
 G4 P1000
 G1 X95  ; #4
 G1 X65
-G4 P3000 ;end
+G4 P3000 ;End of movement for evaluatio.
 G1 X95  ;
 G4 P3000; 
 G1 X65
