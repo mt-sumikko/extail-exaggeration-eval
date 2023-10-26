@@ -21,3 +21,7 @@ We used servo motor DS3218, and controlled with [rotate_movement.ino
 
 ### B-2
 <div><video controls src="https://github.com/mt-sumikko/extail-exaggeration-eval/assets/43632737/0ab036bb-5361-4bc1-915f-5adbbf54d1e5" muted="true"></video></div>
+
+
+## Note
+In each of A and B, the -2 video is exaggerated by the actuation.
