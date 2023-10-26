@@ -1,9 +1,10 @@
 // Evaluation of motion exaggeration: tilting movement from side to side
-// DS3218　pulse width: 500~2500μsec
+// Servo: DS3218(pulse width: 500~2500μsec)
+
 #include <Servo.h>
 
 Servo myservo;
-int pos = 92;
+int pos = 92; // Reference position: Perpendicular to the ground (机に取り付けた時の垂直を目視で調整した、論文中でいうと0度)
 
 void setup()
 {
@@ -18,14 +19,15 @@ void setup()
 
 void loop()
 {
+  // --- #1 -------------------------
   // Measure time for the first loop
   unsigned long startTime = millis(); // Get the current time
 
-  // 30°傾く
+  // 時計回りの方向に20°傾く
   for (pos = 92; pos > 72; pos -= 1)
   {
     myservo.write(pos);
-    delay(8); // delay(5) 30°動かすのに平均157ms delay(10) で312
+    delay(8); // ->
   }
 
   unsigned long endTime = millis();                // Get the current time again
@@ -38,10 +40,10 @@ void loop()
   // 2秒待機
   delay(2000);
 
-  // Measure time for the second loop
+  // --- #2 -------------------------
   startTime = millis();
 
-  //-30°まで傾く
+  // 反時計回りの方向に40°傾く
   for (pos = 72; pos < 112; pos += 1)
   {
     myservo.write(pos);
