@@ -23,11 +23,11 @@ void loop()
   // Measure time for the first loop
   unsigned long startTime = millis(); // Get the current time
 
-  // 時計回りの方向に20°傾く
+  // Tilt 20° in clockwise direction (→ 20°)
   for (pos = 92; pos > 72; pos -= 1)
   {
     myservo.write(pos);
-    delay(8); // ->
+    delay(8); // -> 161ms
   }
 
   unsigned long endTime = millis();                // Get the current time again
@@ -37,17 +37,17 @@ void loop()
   Serial.print(", pos: ");
   Serial.println(pos);
 
-  // 2秒待機
+  // Wait 2 seconds
   delay(2000);
 
   // --- #2 -------------------------
   startTime = millis();
 
-  // 反時計回りの方向に40°傾く
+  // Tilt 40° in counterclockwise direction (→ -20°)
   for (pos = 72; pos < 112; pos += 1)
   {
     myservo.write(pos);
-    delay(8);
+    delay(8); // -> 322ms
   }
 
   endTime = millis();
@@ -57,17 +57,17 @@ void loop()
   Serial.print(", pos: ");
   Serial.println(pos);
 
-  // 2秒待機
+  // Wait 2 seconds
   delay(2000);
 
   // Measure time for the third loop
   startTime = millis();
 
-  // 30°まで傾く
+  // Tilt 40° in clockwise direction (→ 20°)
   for (pos = 112; pos > 72; pos -= 1)
   {
     myservo.write(pos);
-    delay(8);
+    delay(8); // -> 322ms
   }
 
   endTime = millis();
@@ -77,17 +77,17 @@ void loop()
   Serial.print(", pos: ");
   Serial.println(pos);
 
-  // 2秒待機
+  // Wait 2 seconds
   delay(2000);
 
   // Measure time for the fourth loop
   startTime = millis();
 
-  //-30°まで
+  // Tilt 40° in counterclockwise direction (→ -20°)
   for (pos = 72; pos < 112; pos += 1)
   {
     myservo.write(pos);
-    delay(8); // 431ms
+    delay(8); // -> 322ms
   }
 
   endTime = millis();
@@ -98,7 +98,7 @@ void loop()
   Serial.println(pos);
   delay(5000);
 
-  // 0°nimodoru
+  // Tilt 20° in clockwise direction (→ 0°)
   for (pos = 112; pos > 92; pos -= 1)
   {
     myservo.write(pos);

@@ -16,7 +16,7 @@ G1 X65
 G4 P1000
 G1 X95  ; #4
 G1 X65
-G4 P3000 ;End of movement for evaluatio.
+G4 P3000 ;End of movement for evaluation.
 G1 X95  ;
 G4 P3000; 
 G1 X65
