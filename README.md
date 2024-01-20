@@ -32,7 +32,7 @@ The following video demonstrates the device wearing the same device running with
 These comparison videos should be viewed as a reference only, as the performer cannot replicate her movements perfectly.
 
 ### A: Move the head from side to side.
-
+<div><video controls src="https://github.com/mt-sumikko/extail-exaggeration-eval/blob/master/video/wearing_a.mp4" muted="true"></video></div>
 
 ### B: Tilt the head from side to side.
-
+<div><video controls src="https://github.com/mt-sumikko/extail-exaggeration-eval/assets/43632737/e8c4c4f5-136c-49b4-bf0b-fd062e485318" muted="true"></video></div>
