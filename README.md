@@ -25,3 +25,14 @@ We used servo motor DS3218, and controlled with [rotate_movement.ino
 
 ## Note
 In each of A and B, the -2 video is exaggerated by the actuation.
+
+---
+## Reference: Wearing demo
+The following video demonstrates the device wearing the same device running with the same program as the above experiment and performing as many of the same movements as possible under each condition.
+These comparison videos should be viewed as a reference only, as the performer cannot replicate her movements perfectly.
+
+### A: Move the head from side to side.
+
+
+### B: Tilt the head from side to side.
+
