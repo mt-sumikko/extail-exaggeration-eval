@@ -28,8 +28,7 @@ In each of A and B, the -2 video is exaggerated by the actuation.
 
 ---
 ## Reference: Wearing demo
-The following video demonstrates the device wearing the same device running with the same program as the above experiment and performing as many of the same movements as possible under each condition.
-These comparison videos should be viewed as a reference only, as the performer cannot replicate her movements perfectly.
+The following videos show the same device equipped with the same program as in the above experiment being worn and filmed performing the same movements as possible under each condition. Since it is not possible to perfectly reproduce the performer's movements, these comparison videos should be viewed only as a reference.
 
 ### A: Move the head from side to side.
 <div><video controls src="https://github.com/mt-sumikko/extail-exaggeration-eval/assets/43632737/9ccbf62f-6341-4359-af17-4c2f386d9cf2" muted="true"></video></div>
